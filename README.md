@@ -1,1 +1,1 @@
-# animals-classiicaion
+# animals-classification 
